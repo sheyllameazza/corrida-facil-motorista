@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "663485732849",
+    "project_id": "play-viagens-395317",
+    "storage_bucket": "play-viagens-395317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663485732849:android:0b344c1d836502c1105650",
+        "android_client_info": {
+          "package_name": "br.com.playviagens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663485732849-gtoh1iljj84od2995gnu7p1mudb7sa3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.playviagens",
+            "certificate_hash": "69bae9892ba3e6bb3cefd0886d36b8daa8bf0489"
+          }
+        },
+        {
+          "client_id": "663485732849-aj7k09p5fmknv6qlfid8jok8qghjrdn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCClk5gZ85JalBvPxokBt-yIv2-VhuVyGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663485732849-aj7k09p5fmknv6qlfid8jok8qghjrdn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663485732849:android:09bb0de7bb05d973105650",
+        "android_client_info": {
+          "package_name": "br.com.playviagens.motorista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663485732849-aj7k09p5fmknv6qlfid8jok8qghjrdn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCClk5gZ85JalBvPxokBt-yIv2-VhuVyGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663485732849-aj7k09p5fmknv6qlfid8jok8qghjrdn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
